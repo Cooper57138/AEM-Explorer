@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1483202954249
+Build-Jdk: 1.7.0_79
+Built-By: hitman
+Bundle-Description: Core bundle for BookStore
+Bundle-ManifestVersion: 2
+Bundle-Name: BookStore - Core
+Bundle-SymbolicName: org.cooper.aemstore.core
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Sling-Model-Packages: org.cooper.aemstore.core
+Tool: Bnd-2.3.0.201405100607
